@@ -181,29 +181,49 @@ LangGraph is responsible for:
 
 
 💡 Supported Use Cases
+
 PDF Question Answering
+
 Research Assistant
+
 Resume Analysis
+
 Knowledge Base Chatbot
+
 AI Learning Assistant
+
 Technical Documentation Assistant
+
 Coding Assistant
+
 General AI Conversation
+
 Current Affairs
+
 Latest News
+
 Technology Queries
 
 
 📌 Technologies Used
 Technology	Purpose
-Python	Backend Development
-LangChain	LLM Orchestration
-Mistral AI	Language Model
+
+Python	     Backend Development
+
+LangChain	      LLM Orchestration
+
+Mistral AI      Language Model
+
 Mistral Embeddings	Embedding Generation
-ChromaDB	Vector Database
-SQLite	Persistent Chat History
-Streamlit	User Interface
+
+ChromaDB	           Vector Database
+
+SQLite	        Persistent Chat History
+
+Streamlit	         User Interface
+
 PyPDFLoader	PDF Processing
+
 python-dotenv	Environment Variables
 
 🔒 Persistent Memory
@@ -211,8 +231,11 @@ python-dotenv	Environment Variables
 The chatbot stores:
 
 Chat history
+
 Session data
+
 Previous conversations
+
 User interaction logs
 
 SQLite ensures that conversations remain available even after restarting the application.
@@ -220,17 +243,29 @@ SQLite ensures that conversations remain available even after restarting the app
 
 📈 Future Enhancements
 Multi-user authentication
+
 Voice input/output
+
 Image understanding (Vision Models)
+
 OCR support
+
 Multiple document retrieval
+
 Conversation export (PDF/Word)
+
 Docker deployment
+
 Cloud deployment
+
 User feedback system
+
 Multi-language support
+
 Hybrid Search (Keyword + Semantic)
+
 Agentic AI workflows
+
 Advanced memory management
 
 
