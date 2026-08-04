@@ -205,7 +205,11 @@ Latest News
 Technology Queries
 
 
+
+
 📌 Technologies Used
+
+
 Technology	Purpose
 
 Python	     Backend Development
@@ -226,7 +230,11 @@ PyPDFLoader	PDF Processing
 
 python-dotenv	Environment Variables
 
+
+
+
 🔒 Persistent Memory
+
 
 The chatbot stores:
 
@@ -241,7 +249,11 @@ User interaction logs
 SQLite ensures that conversations remain available even after restarting the application.
 
 
+
+
 📈 Future Enhancements
+
+
 Multi-user authentication
 
 Voice input/output
@@ -269,7 +281,9 @@ Agentic AI workflows
 Advanced memory management
 
 
+
 🤝 Contributing
+
 
 Contributions are welcome!
 
@@ -280,11 +294,14 @@ Push to your branch.
 Open a Pull Request.
 
 
+
 📜 License
+
 
 This project is licensed under the MIT License.
 
 You are free to use, modify, and distribute this project under the terms of the license.
+
 
 
 🙌 Acknowledgements
